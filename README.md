@@ -1,4 +1,4 @@
-# Important-Notes
+# Important Notes
 
 This repositary is made and maintained for the sole purpose of providing all important notes about different languages or techstakes in one place.
 These notes are gathered personally by me from a variety of different sources.
